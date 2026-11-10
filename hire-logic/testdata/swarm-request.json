@@ -1,0 +1,1 @@
+{"messages":[{"content":"You write migration notes.","role":"system"},{"content":"The crowdfund Safe is the poster.","role":"system"},{"content":"campaign:crowd1\nWrite the migration note","role":"user"}],"model":"Qwen/Qwen3.8-27B","spend":"25","tools":[{"function":{"name":"lookup","parameters":{"type":"object"}},"type":"function"}]}
